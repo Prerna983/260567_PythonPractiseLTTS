@@ -24,3 +24,8 @@ print(4*'2')
 print('4'*2)
 print("WOOOWWWW!!")
 print("\n That's all for today in string for now.\n see you at next topic!")
+
+print('Learnt something "new"')
+print("Learn\'t something \"new\"")
+
+print("isn't it awesome?")
