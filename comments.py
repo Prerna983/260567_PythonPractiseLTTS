@@ -20,3 +20,10 @@ print("I've also learnt multi-line comments")
 # and then press
 # ctrl+/
 # same goes for de-comment
+
+#Making a doc-string
+"""
+This serves same purpose
+as a multi-line
+comment without actual comment
+"""
